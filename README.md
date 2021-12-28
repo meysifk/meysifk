@@ -1,10 +1,13 @@
 ### Hi there, I'm Meysi 👋 
 
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums -->
+- 👀 I’m interested in Ruby 💎
+- 🌱 I’m currently working at Mekari
+- 📫 How to reach me meysifairus.khosyi@gmail.com
+
+<!---
+meysifairus/meysifairus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 <!-- ### Connect with me:
 
