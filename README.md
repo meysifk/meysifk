@@ -1,7 +1,6 @@
 ### Hi there, I'm Meysi 👋 
 
 - 👀 I’m interested in Ruby 💎
-- 🌱 I’m currently working at IN YOU
 - 📫 How to reach me meysifairus.khosyi@gmail.com
 
 <!---
